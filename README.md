@@ -49,6 +49,3 @@ This project demonstrates the use of SQL to manage and analyze employee data. It
 * Aggregate Functions
 * Query Optimization
 * Business Data Analysis
-
-## Files
-Employee_Database.sql
